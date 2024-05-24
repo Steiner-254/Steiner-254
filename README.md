@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin Mwambi (@Steiner254)</h1>
 <h3 align="center">"Hey You! I Have Never Seen A Secure System" - Ethical Hacker (Hacking Since Before Birth!) </h3>
 
-<img align="right" alt="coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="centre" alt="coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steiner-254&label=Profile%20views&color=0e75b6&style=flat" alt="steiner-254" /> </p>
 
