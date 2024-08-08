@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain Securitty & Dev || Application Security || Penetration Testing ||**
 
-- ⚡ Fun fact **Blockchain Security Expert - I'm Watching The Downfall Of CentralBanks**
+- ⚡ Fun fact **Blockchain Security Expert - I'm Watching The Downfall Of CentralBanks!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
