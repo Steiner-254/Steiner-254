@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/steiner254" target="blank"><img src="https://img.shields.io/twitter/follow/steiner254?logo=twitter&style=for-the-badge" alt="steiner254" /></a> </p>
 
-- 🔭 I’m currently working on **"Blockchain Securitty & Dev || Application Security || Penetration Testing ||"**
+- 🔭 I’m currently working on **"Blockchain Security & Dev || Application Security || Penetration Testing ||"**
 
 - 👯 I’m looking to collaborate on **"Smart Contract Dev & Auditting || Web & Android Dev || Penetration Testing"**
 
-- 💬 Ask me about **"Blockchain Securitty & Dev || Application Security || Penetration Testing ||"**
+- 💬 Ask me about **"Blockchain Security & Dev || Application Security || Penetration Testing ||"**
 
 - ⚡ Fun fact **"Blockchain Security Expert - I'm Watching The Downfall Of CentralBanks!"**
 
