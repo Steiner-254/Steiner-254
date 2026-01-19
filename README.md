@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **"Offensive Security Researcher (Hacker) - I Have Never Seen A Secure System!"**
 
-### Blogs posts
+### Blog Page (Experience My Writeups):
 - **Medium On:** https://steiner254.medium.com/
 
 <h3 align="left">Connect with me:</h3>
