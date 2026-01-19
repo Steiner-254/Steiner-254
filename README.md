@@ -5,21 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steiner-254&label=Profile%20views&color=0e75b6&style=flat" alt="steiner-254" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steiner-254" alt="steiner-254" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steiner-254" alt="steiner-254" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/steiner254" target="blank"><img src="https://img.shields.io/twitter/follow/steiner254?logo=twitter&style=for-the-badge" alt="steiner254" /></a> </p>
 
-- 🔭 I’m currently working on **"Blockchain Security & Dev || Application Security || Penetration Testing ||"**
+- 🔭 I’m currently working on **"Penetration Testing || Mobile Security || Application Security || Network Security || Zero Day(s) Hunting"**
 
-- 👯 I’m looking to collaborate on **"Smart Contract Dev & Auditting || Web & Android Dev || Penetration Testing"**
+- 👯 I’m looking to collaborate on **"Penetration Testing || Mobile Security || Application Security || Network Security || Zero Day(s) Hunting"**
 
-- 💬 Ask me about **"Blockchain Security & Dev || Application Security || Penetration Testing ||"**
+- 💬 Ask me about **"Penetration Testing || Mobile Security || Application Security || Network Security || Zero Day(s) Hunting"**
 
-- ⚡ Fun fact **"Blockchain Security Expert - I'm Watching The Downfall Of CentralBanks!"**
+- ⚡ Fun fact **"Offensive Security Researcher (Hacker) - I Have Never Seen A Secure System!"**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **Medium On:** https://steiner254.medium.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +29,7 @@
 <a href="https://discord.gg/steiner254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="steiner254" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools Hacked On:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -129,14 +128,6 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steiner-254&show_icons=true&locale=en" alt="steiner-254" />
 </p>
-
-<!--
-  STREAK CARD:
-  - Public Heroku-hosted streak services have been unreliable. This file uses a public Vercel instance as a working fallback.
-  - For maximum reliability, fork https://github.com/DenverCoder1/github-readme-streak-stats and deploy the fork to Vercel.
-    Then replace the STREAK_URL below with your own deployment URL:
-      https://YOUR-VERCEL-APP.vercel.app/?user=steiner-254
--->
 
 <!-- STREAK (single instance) -->
 <p>
