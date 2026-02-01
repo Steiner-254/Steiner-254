@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Zero Day(s) Hunting"**
 
-- ⚡ Fun fact **"Offensive Security Researcher (Hacker) - I Have Never Seen A Secure System!"**
+- ⚡ Fun fact **"Offensive Security Researcher (Hacker) -> I Have Never Seen A Secure System!"**
 
 ### Blog Page (Experience My Writeups):
 - **Medium On:** https://steiner254.medium.com/
