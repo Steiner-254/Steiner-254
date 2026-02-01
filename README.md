@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/steiner254" target="blank"><img src="https://img.shields.io/twitter/follow/steiner254?logo=twitter&style=for-the-badge" alt="steiner254" /></a> </p>
 
-- 🔭 I’m currently working on **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Zero Day(s) Hunting"**
+- 🔭 I’m currently working on **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Artificial Intelligency (AI) Security || Zero Day(s) Hunting"**
 
-- 👯 I’m looking to collaborate on **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Zero Day(s) Hunting"**
+- 👯 I’m looking to collaborate on **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Artificial Intelligency (AI) Security || Zero Day(s) Hunting"**
 
-- 💬 Ask me about **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Zero Day(s) Hunting"**
+- 💬 Ask me about **"Penetration Testing || Mobile Security || Web Security || Application Security || Network Security || Artificial Intelligency (AI) Security || Zero Day(s) Hunting"**
 
 - ⚡ Fun fact **"Offensive Security Researcher (Hacker) -> I Have Never Seen A Secure System!"**
 
